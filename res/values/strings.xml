@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MobileNotaryQuote</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="intro_title">Quote calculator for estimating Notary services for clients.</string>
+    <string name="num_doc">Number of Documents</string>
+    <string name="ppp">Price Per Page</string>
+    <string name="q">Quote</string>
+    <string name="c">Calculate</string>
+    <string name="discount">Common Discounts: \r\n
+        					Documents 1-5: 			See Mobile Quotes \r\n
+        					Documents 10-20:	 	$5 per page \r\n
+        					Documents 21-50:	 	$4 per page \r\n
+        					Documents 50+:		 	$3 per page</string>
+    <string name="quote_table">Suggestable Mobile Quotes: \r\n
+        					   Medical Documents: 	$7 per page \r\n
+        					   Legal Documents: 	$8 per page \r\n
+        					   Personal Documents: 	$10 per page \r\n
+        					   Mortgage Documents: 	$6 per page</string>
+
+</resources>
